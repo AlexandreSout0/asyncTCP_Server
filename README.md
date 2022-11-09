@@ -3,6 +3,10 @@
  mDNS Async TCP Server esp32
 
 
+-> Socket TCP
+
+-> mDNS
+
 
 ![WhatsApp Image 2022-11-07 at 17 42 02](https://user-images.githubusercontent.com/17073678/200411405-79aea7ee-2385-4193-9e78-aff35d6ec869.jpeg)
 
